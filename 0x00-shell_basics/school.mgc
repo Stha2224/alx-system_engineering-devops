@@ -1,3 +1,0 @@
-0 string SCHOOL School data file
-school.mgc -m < (echo -e "0 string SCHOOL School school.mgc\
-n! mime School") school.mgc
